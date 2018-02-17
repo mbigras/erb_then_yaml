@@ -1,0 +1,6 @@
+---
+vars:
+  flap: jack
+foo: bar
+answer: <%= @vars['flap'] %>
+
